@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/gouarin/test-conventional-commit/compare/v1.0.1...v1.0.2) (2023-04-17)
+
+
+### Bug Fixes
+
+* readme ([#7](https://github.com/gouarin/test-conventional-commit/issues/7)) ([bc174af](https://github.com/gouarin/test-conventional-commit/commit/bc174afcb33a480817f2b9c64d405c9f2ec986eb))
+
 ## [1.0.1](https://github.com/gouarin/test-conventional-commit/compare/v1.0.0...v1.0.1) (2023-04-17)
 
 
