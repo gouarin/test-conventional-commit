@@ -15,4 +15,3 @@ jobs:
           release-type: simple
           always-bump-minor: true
           bump-minor-pre-major: true
-          bump-patch-for-minor-pre-major: true
