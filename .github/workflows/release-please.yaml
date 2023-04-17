@@ -12,5 +12,6 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
+          command: github-release
           release-type: simple
           package-name: my_package
